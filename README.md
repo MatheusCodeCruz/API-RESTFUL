@@ -1,7 +1,11 @@
 # API-RESTFUL
- Dado a condição de Saúde dos petropolitanos, nada melhor que uma farmacia.</br>
-Tendo em vista o ramo de comércio físico, podem escolher
-uma das três opções de loja física (Vestuário, FastFood ou Farmácia).
+## exercício 1
+### Dado a condição de Saúde dos petropolitanos, nada melhor que uma farmacia.</br>
+## exercício 2
+### Levando em consideração a paixão nacional, nada melhor que uma loja de games.</br>
+## exercício 3
+### Como um amante de esportes e analisando o mercado, busquei criar uma loja de suplementos para conseguir melhores preços para mim e ainda fazer uma grana.</br>
+# Requisitos
 Vamos criar um projeto com os pacotes:
    
 >> domain - repositories - services - controllers;
@@ -31,3 +35,6 @@ Vamos criar um projeto com os pacotes:
 >> Subir o projeto para seu repositório individual;
    
 >> Adicionar no README as motivações desse projeto.
+>> 
+Docente </br>
+Debora souza (https://github.com/debysouza)
